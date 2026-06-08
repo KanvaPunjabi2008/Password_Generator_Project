@@ -37,7 +37,7 @@ python --version
 
 2. **Navigate into the project directory:**
    ```bash
-   cd YOUR-REPOSITORY-NAME
+   cd Password_Generator_Project
    ```
 
 3. **Run the script:**
